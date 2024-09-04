@@ -1,0 +1,14 @@
+.footer{
+    
+        background: green;
+        width: 645px;
+        height: 175x;
+        position: fixed; 
+        top:550px;
+        right:  0;
+        padding: 10px;
+        box-sizing: border-box;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }

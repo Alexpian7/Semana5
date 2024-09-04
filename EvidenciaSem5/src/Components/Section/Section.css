@@ -1,0 +1,13 @@
+.section{
+    background: purple;
+    position: fixed;
+    top: 266px;
+    right:  0;
+    padding: 20px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 390px;
+    height: 169px;
+}

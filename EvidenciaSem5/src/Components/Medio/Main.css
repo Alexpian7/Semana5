@@ -1,0 +1,19 @@
+/* Estilos para el contenedor principal */
+.main {
+    background: orange;
+    width: 945px;
+    height: 538px;
+    position: fixed; /* Fija el contenedor en la pantalla */
+    top:266px;
+    left: 0;
+    padding: 10px;
+    box-sizing: border-box; /* Incluye el padding en el ancho y alto total */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.imgs{
+    background: #ff3390;
+    padding: 20px;
+    gap: 15rem;
+}
