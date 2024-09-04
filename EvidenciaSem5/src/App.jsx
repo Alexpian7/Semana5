@@ -5,6 +5,8 @@ import Med from './Components/Medio/Med'
 import Section from './Components/Section/Section'
 import Article from './Components/Article/Article'
 import Footer from './Components/Footer/Footer'
+import Articulo from './Components/Aticulo/Articulo'
+import Section2 from './Components/Section2/Section2'
 
 
 
@@ -15,8 +17,9 @@ function App() {
     <Header />
     <Med />
     <Section/>
-    <Section/>
+    <Section2 />
     <Article/>
+    <Articulo/>
     <Footer/>
     </div>
     

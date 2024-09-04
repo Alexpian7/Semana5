@@ -13,7 +13,7 @@ function Header() {
             <a className="nav3" href="">Contactanos</a>
         </nav>
         <div className="img">
-            <img src={Img}alt="" srcset="" />
+            <img className="fot" src={Img}alt="" srcset="" />
         </div>
     </header>
     

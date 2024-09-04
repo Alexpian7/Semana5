@@ -1,10 +1,10 @@
 .Arti{
     background: green;
-    width: 645px;
-    height: 175px;
+    width: 430px;
+    height: 130px;
     position: fixed; /* Fija el contenedor en la pantalla */
-    top:550px;
-    left: 0;
+    top:440px;
+    left: 455px;
     padding: 10px;
     box-sizing: border-box; /* Incluye el padding en el ancho y alto total */
     display: flex;
